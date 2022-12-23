@@ -20,5 +20,5 @@ func main() {
 		})
 	})
 
-	server.Run()
+	server.Run(":8022")
 }
